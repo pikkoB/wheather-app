@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body {
+  background-image: url(./assets/img/backWheather.jpg);
+
+}
+
+.card {
+  padding: 2em;
+  background-color: lightgray;
+  border-radius: 6%;
+color: darkblue;
+box-shadow: 10px 5px 5px black;
+}
+span {
+  color: black;
+}
+button {
+background-image: url(./assets/img/backWheather.jpg);
+color: white;
+box-shadow: 10px 5px 5px black;
+}
+
